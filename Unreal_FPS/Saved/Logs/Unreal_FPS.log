@@ -11436,3 +11436,148 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.06-14.05.51:185][732]LogFileHelpers: Auto-saving content packages took 0.285
 [2021.08.06-14.06.09:086][781]BlueprintLog: New page: Compile BP_玩家控制
 [2021.08.06-14.06.09:205][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.08.06-14.09.17:214][527]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2021.08.06-14.09.17:296][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.06-14.09.17:405][527]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_玩家控制873F2E244786DE429ADE02B7E93E0A6E.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset'
+[2021.08.06-14.09.17:439][527]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.06-14.09.17:439][527]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-14.09.18:564][590]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-14.09.18:564][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-14.09.19:367][628]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-14.09.19:367][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-14.09.19:377][628]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-14.09.19:377][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-14.09.27:657][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-14.09.27:673][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-14.09.27:673][ 58]PIE: New page: PIE session: Demo_Streets (2021年8月7日 上午6:09:27)
+[2021.08.06-14.09.27:674][ 58]LogPlayLevel: Creating play world package: /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-14.09.27:732][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057582s)
+[2021.08.06-14.09.27:736][ 58]LogAIModule: Creating AISystem for world Demo_Streets
+[2021.08.06-14.09.27:738][ 58]LogPlayLevel: PIE: World Init took: (0.005743s)
+[2021.08.06-14.09.27:738][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets to /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets (0.063779s)
+[2021.08.06-14.09.28:046][ 58]LogUObjectHash: Compacting FUObjectHashTables data took  14.08ms
+[2021.08.06-14.09.28:065][ 58]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.08.06-14.09.28:065][ 58]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-14.09.28:065][ 58]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-14.09.28:066][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-14.09.28:066][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-14.09.28:066][ 58]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-14.09.28:066][ 58]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-14.09.28:066][ 58]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-14.09.28:066][ 58]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-14.09.28:067][ 58]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-14.09.28:068][ 58]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-14.09.28:082][ 58]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-14.09.28:082][ 58]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-14.09.28:180][ 58]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.06-14.09.28:182][ 58]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-14.09.28:182][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-14.09.28:183][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-14.09.28:192][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-14.09.28:192][ 58]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-14.09.28:192][ 58]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-14.09.28:206][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-14.09.28:206][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-14.09.28:206][ 58]LogInit: FAudioDevice initialized.
+[2021.08.06-14.09.28:206][ 58]LogAudio: Display: Audio Device (ID: 34) registered with world 'Demo_Streets'.
+[2021.08.06-14.09.28:215][ 58]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.06-14.09.28:234][ 58]LogWorld: Bringing World /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets up for play (max tick rate 60) at 2021.08.06-22.09.28
+[2021.08.06-14.09.28:235][ 58]LogWorld: Bringing up level for play took: 0.018307
+[2021.08.06-14.09.28:236][ 58]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2021.08.06-14.09.28:243][ 58]PIE: Server logged in
+[2021.08.06-14.09.28:243][ 58]PIE: Play in editor total start time 0.579 seconds.
+[2021.08.06-14.09.33:651][243]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.08.06-14.09.58:507][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-14.09.58:507][535]LogWorld: BeginTearingDown for /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-14.09.58:508][535]LogWorld: UWorld::CleanupWorld for Demo_Streets, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-14.09.58:511][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-14.09.58:523][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-14.09.58:577][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-14.09.58:602][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-14.09.58:603][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-14.09.58:605][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-14.09.58:634][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-14.09.58:646][535]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2021.08.06-14.09.58:703][536]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2021.08.06-14.10.44:613][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.08.06-14.11.34:240][666]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.06-14.12.04:539][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.08.06-14.12.04:739][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.06-14.12.05:203][150]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_Streets84856C8844AE9C25E6945A83C2F6AD7C.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-14.12.05:241][150]LogFileHelpers: Saving map 'Demo_Streets' took 0.532
+[2021.08.06-14.12.05:266][150]AssetCheck: New page: Asset Save: Demo_Streets
+[2021.08.06-14.12.05:266][150]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-14.13.02:764][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.08.06-14.13.02:899][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.08.06-14.13.03:429][440]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_Streets9895EA4B46A3E4C498466EAAEE11C4AA.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-14.13.03:439][440]LogFileHelpers: Saving map 'Demo_Streets' took 0.577
+[2021.08.06-14.13.03:467][440]AssetCheck: New page: Asset Save: Demo_Streets
+[2021.08.06-14.13.03:467][440]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-14.13.08:680][674]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-14.13.08:697][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-14.13.08:697][674]PIE: New page: PIE session: Demo_Streets (2021年8月7日 上午6:13:08)
+[2021.08.06-14.13.08:699][674]LogPlayLevel: Creating play world package: /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-14.13.08:772][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072003s)
+[2021.08.06-14.13.08:774][674]LogAIModule: Creating AISystem for world Demo_Streets
+[2021.08.06-14.13.08:775][674]LogPlayLevel: PIE: World Init took: (0.002196s)
+[2021.08.06-14.13.08:775][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets to /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets (0.074578s)
+[2021.08.06-14.13.08:804][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.08.06-14.13.08:852][674]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.08.06-14.13.08:852][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-14.13.08:852][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-14.13.08:852][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-14.13.08:852][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-14.13.08:852][674]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-14.13.08:852][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-14.13.08:852][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-14.13.08:852][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-14.13.08:853][674]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-14.13.08:853][674]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-14.13.08:866][674]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-14.13.08:866][674]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-14.13.08:976][674]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.06-14.13.08:977][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-14.13.08:977][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-14.13.08:977][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-14.13.08:978][674]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-14.13.08:978][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-14.13.08:978][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-14.13.09:007][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-14.13.09:007][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-14.13.09:007][674]LogInit: FAudioDevice initialized.
+[2021.08.06-14.13.09:007][674]LogAudio: Display: Audio Device (ID: 35) registered with world 'Demo_Streets'.
+[2021.08.06-14.13.09:023][674]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.06-14.13.09:045][674]LogWorld: Bringing World /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets up for play (max tick rate 60) at 2021.08.06-22.13.09
+[2021.08.06-14.13.09:046][674]LogWorld: Bringing up level for play took: 0.021163
+[2021.08.06-14.13.09:046][674]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2021.08.06-14.13.09:055][674]PIE: Server logged in
+[2021.08.06-14.13.09:056][674]PIE: Play in editor total start time 0.369 seconds.
+[2021.08.06-14.13.28:766][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-14.13.28:766][568]LogWorld: BeginTearingDown for /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-14.13.28:767][568]LogWorld: UWorld::CleanupWorld for Demo_Streets, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-14.13.28:770][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-14.13.28:782][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-14.13.28:837][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-14.13.28:858][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-14.13.28:860][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-14.13.28:862][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-14.13.28:893][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.08.06-14.13.29:000][569]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2021.08.06-14.14.18:039][ 96]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.06-14.14.21:843][234]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.06-14.14.23:091][284]Cmd: DELETE
+[2021.08.06-14.14.23:115][284]Cmd: ACTOR DELETE
+[2021.08.06-14.14.23:368][284]LogEditorActor: Deleted Actor: PostProcessVolume
+[2021.08.06-14.14.23:439][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.08.06-14.14.23:445][284]LogEditorActor: Deleted 1 Actors (0.256 secs)
+[2021.08.06-14.14.25:767][346]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.06-14.14.43:217][168]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.06-14.14.52:594][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.08.06-14.14.52:712][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.08.06-14.14.53:103][608]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_StreetsCCB138DB402968CF78D063825957FCF2.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-14.14.53:111][608]LogFileHelpers: Saving map 'Demo_Streets' took 0.435
+[2021.08.06-14.14.53:129][608]AssetCheck: New page: Asset Save: Demo_Streets
+[2021.08.06-14.14.53:130][608]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-14.15.41:104][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2021.08.06-14.15.42:279][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corridor_A_Floor_Stones_C165)
+[2021.08.06-14.15.42:872][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
