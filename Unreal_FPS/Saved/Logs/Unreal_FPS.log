@@ -2197,3 +2197,482 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.06-08.03.14:656][840]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
 [2021.08.06-08.03.14:656][840]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
 [2021.08.06-08.03.14:656][840]LogContentValidation: Display: Validating Material /Game/角色/怪物/WhiteClown_material.WhiteClown_material
+[2021.08.06-08.14.51:276][522]LogSlate: Window 'Pick Skeleton' being destroyed
+[2021.08.06-08.14.51:317][522]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2021.08.06-08.14.51:357][522]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2021.08.06-08.14.57:887][840]LogContentBrowser: Attempting asset rename: NewBlendSpace -> BS_怪物
+[2021.08.06-08.14.57:916][840]LogContentBrowser: End creating deferred item NewBlendSpace
+[2021.08.06-08.14.59:910][907]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/BP/怪物控制BA/BS_怪物.BS_怪物
+[2021.08.06-08.15.00:255][907]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.06-08.15.01:703][907]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.06-08.15.03:760][ 19]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-08.15.03:760][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-08.15.24:043][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/怪物控制BA/BS_怪物" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BS_怪物.uasset" SILENT=true
+[2021.08.06-08.15.24:051][136]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BS_怪物9F7AD9B4424FA4282DEEF6A2B8383321.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BS_怪物.uasset'
+[2021.08.06-08.15.24:077][136]AssetCheck: New page: Asset Save: BS_怪物
+[2021.08.06-08.15.24:077][136]LogContentValidation: Display: Validating BlendSpace /Game/BP/怪物控制BA/BS_怪物.BS_怪物
+[2021.08.06-08.17.35:057][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/怪物控制BA/BS_怪物" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BS_怪物.uasset" SILENT=true
+[2021.08.06-08.17.35:106][665]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BS_怪物1FB0F5E64A9EABA588FF17A356BD2E91.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BS_怪物.uasset'
+[2021.08.06-08.17.35:204][665]AssetCheck: New page: Asset Save: BS_怪物
+[2021.08.06-08.17.35:204][665]LogContentValidation: Display: Validating BlendSpace /Game/BP/怪物控制BA/BS_怪物.BS_怪物
+[2021.08.06-08.17.49:003][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/怪物控制BA/BS_怪物" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BS_怪物.uasset" SILENT=true
+[2021.08.06-08.17.49:009][909]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BS_怪物46AF3092458134D6DEC0C1A0433F5AE4.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BS_怪物.uasset'
+[2021.08.06-08.17.49:080][909]AssetCheck: New page: Asset Save: BS_怪物
+[2021.08.06-08.17.49:080][909]LogContentValidation: Display: Validating BlendSpace /Game/BP/怪物控制BA/BS_怪物.BS_怪物
+[2021.08.06-08.17.50:694][937]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-08.17.50:695][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-08.17.51:137][937]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-08.17.51:137][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-08.17.58:041][ 29]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/角色/怪物動作/Monster_Idle.Monster_Idle
+[2021.08.06-08.17.58:060][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.06-08.18.03:675][ 29]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.06-08.18.15:479][177]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.06-08.18.16:483][177]LogUObjectHash: Compacting FUObjectHashTables data took  27.41ms
+[2021.08.06-08.20.35:189][ 76]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.06-08.20.36:014][ 76]LogUObjectHash: Compacting FUObjectHashTables data took  42.66ms
+[2021.08.06-08.21.00:740][455]LogUObjectHash: Compacting FUObjectHashTables data took  13.97ms
+[2021.08.06-08.21.00:924][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/怪物控制BA/BA_怪物動畫" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BA_怪物動畫.uasset" SILENT=true
+[2021.08.06-08.21.01:051][455]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BA_怪物動畫C29904D4476955C67BE68FB6B9857769.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BA_怪物動畫.uasset'
+[2021.08.06-08.21.01:138][455]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.06-08.21.01:138][455]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫
+[2021.08.06-08.21.02:547][478]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.06-08.21.02:837][478]LogUObjectHash: Compacting FUObjectHashTables data took  21.59ms
+[2021.08.06-08.21.20:540][731]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-08.21.20:540][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-08.21.20:631][731]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-08.21.20:631][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-08.21.20:947][731]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-08.21.20:949][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-08.21.23:520][768]LogEditorTransaction: Undo Move Node
+[2021.08.06-08.21.24:322][768]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.06-08.21.28:359][824]LogEditorTransaction: Undo Move Node
+[2021.08.06-08.21.29:071][824]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.06-08.21.31:924][860]LogEditorTransaction: Undo Move Node
+[2021.08.06-08.21.32:667][860]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.06-08.21.34:587][884]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.06-08.21.34:995][884]LogUObjectHash: Compacting FUObjectHashTables data took  33.78ms
+[2021.08.06-08.22.01:431][181]LogEditorTransaction: Undo Edit 速度
+[2021.08.06-08.22.02:178][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.06-08.22.02:220][181]LogEditorTransaction: Undo Edit 速度
+[2021.08.06-08.22.03:013][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.06-08.22.06:775][191]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/角色/怪物動作/Monster_Idle.Monster_Idle
+[2021.08.06-08.22.06:786][191]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.06-08.22.10:588][191]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.06-08.22.14:794][206]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-08.22.14:795][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-08.22.23:573][240]LogContentBrowser: Attempting asset rename: BS_怪物 -> BS_怪物
+[2021.08.06-08.22.35:441][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/怪物控制BA/BS_怪物" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BS_怪物.uasset" SILENT=true
+[2021.08.06-08.22.35:461][288]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BS_怪物71732AB54C0B5871704C70853F381827.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BS_怪物.uasset'
+[2021.08.06-08.22.35:517][288]AssetCheck: New page: Asset Save: BS_怪物
+[2021.08.06-08.22.35:517][288]LogContentValidation: Display: Validating BlendSpace /Game/BP/怪物控制BA/BS_怪物.BS_怪物
+[2021.08.06-08.22.45:944][445]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.06-08.22.46:268][445]LogUObjectHash: Compacting FUObjectHashTables data took  40.35ms
+[2021.08.06-08.23.48:604][485]LogUObjectHash: Compacting FUObjectHashTables data took  21.42ms
+[2021.08.06-08.23.48:615][485]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/City_of_Brass_Enviroment/Maps/Demo_Streets' took 0.167
+[2021.08.06-08.23.48:629][485]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/怪物控制BA/BA_怪物動畫] ([2] browsable assets)...
+[2021.08.06-08.23.48:699][485]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫]
+[2021.08.06-08.23.48:767][485]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫]
+[2021.08.06-08.23.48:768][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/怪物控制BA/BA_怪物動畫]
+[2021.08.06-08.23.48:894][485]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BA_怪物動畫_Auto3FBEFACA44FE363DFE6CFC3A60412F32B.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Autosaves/Game/BP/怪物控制BA/BA_怪物動畫_Auto3.uasset'
+[2021.08.06-08.23.48:895][485]LogFileHelpers: Auto-saving content packages took 0.274
+[2021.08.06-08.26.02:876][516]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.06-08.26.03:015][516]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.26.03:016][516]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.26.03:016][516]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.08.06-08.26.03:017][516]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.26.03:017][516]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.26.03:018][516]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.08.06-08.26.03:018][516]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_6
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.26.03:018][516]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_6
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.26.03:018][516]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_6
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.08.06-08.26.03:198][516]LogUObjectHash: Compacting FUObjectHashTables data took  30.66ms
+[2021.08.06-08.26.04:026][518]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.26.04:027][518]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.26.04:028][518]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.08.06-08.26.04:094][519]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.26.04:094][519]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.26.04:094][519]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.08.06-08.26.04:141][520]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.26.04:141][520]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.26.04:142][520]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.08.06-08.26.04:213][521]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.26.26:111][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/怪物控制BA/BA_怪物動畫" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BA_怪物動畫.uasset" SILENT=true
+[2021.08.06-08.26.26:410][588]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BA_怪物動畫6456C7F845F8263DC0A0E084371A5B68.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BA_怪物動畫.uasset'
+[2021.08.06-08.26.26:543][588]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.06-08.26.26:543][588]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫
+[2021.08.06-08.27.27:254][303]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.06-08.27.27:416][303]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.27.27:416][303]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.27.27:416][303]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.27.27:420][303]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.27.27:421][303]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.27.27:421][303]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.27.27:589][303]LogUObjectHash: Compacting FUObjectHashTables data took  24.88ms
+[2021.08.06-08.27.28:579][305]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.27.28:581][305]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.27.28:581][305]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.27.28:704][306]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.27.28:706][306]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.27.28:706][306]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.27.28:791][307]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.27.28:792][307]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.27.28:792][307]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.27.28:843][308]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_8
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.29.03:414][575]LogEditorTransaction: Undo Move Node
+[2021.08.06-08.29.05:139][575]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.06-08.29.05:157][575]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.06-08.31.20:648][196]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.06-08.31.20:771][196]LogBlueprint: Warning: [AssetLog] D:\Homework\homework\Specfic Course\Unreal_Course\Unreal_Course\Unreal_FPS\Content\BP\怪物控制BA\BA_怪物動畫.uasset: [Compiler] 等待、走路與跑步 to 攻擊  will never be taken, please connect something to  Can Enter Transition
+[2021.08.06-08.31.20:774][196]LogBlueprint: Warning: [AssetLog] D:\Homework\homework\Specfic Course\Unreal_Course\Unreal_Course\Unreal_FPS\Content\BP\怪物控制BA\BA_怪物動畫.uasset: [Compiler] 攻擊 to 等待、走路與跑步  will never be taken, please connect something to  Can Enter Transition
+[2021.08.06-08.31.20:891][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.31.20:892][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.31.20:893][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.31.20:897][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.31.20:898][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.31.20:899][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.31.21:089][196]LogUObjectHash: Compacting FUObjectHashTables data took  29.41ms
+[2021.08.06-08.31.22:005][198]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.31.22:006][198]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.31.22:006][198]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.31.22:088][199]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.31.22:089][199]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.31.22:090][199]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.31.22:126][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.31.22:128][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.31.22:128][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.31.22:189][201]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_9
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.31.22:867][215]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.06-08.31.22:891][215]LogBlueprint: Warning: [AssetLog] D:\Homework\homework\Specfic Course\Unreal_Course\Unreal_Course\Unreal_FPS\Content\BP\怪物控制BA\BA_怪物動畫.uasset: [Compiler] 等待、走路與跑步 to 攻擊  will never be taken, please connect something to  Can Enter Transition
+[2021.08.06-08.31.22:891][215]LogBlueprint: Warning: [AssetLog] D:\Homework\homework\Specfic Course\Unreal_Course\Unreal_Course\Unreal_FPS\Content\BP\怪物控制BA\BA_怪物動畫.uasset: [Compiler] 攻擊 to 等待、走路與跑步  will never be taken, please connect something to  Can Enter Transition
+[2021.08.06-08.31.23:000][215]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.31.23:001][215]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.31.23:002][215]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.31.23:007][215]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.31.23:008][215]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.31.23:009][215]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.31.23:204][215]LogUObjectHash: Compacting FUObjectHashTables data took  35.80ms
+[2021.08.06-08.31.23:831][219]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.31.23:832][219]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.31.23:832][219]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.31.23:888][220]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.31.23:888][220]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.31.23:888][220]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.31.23:936][221]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.31.23:937][221]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.31.23:937][221]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.31.23:995][222]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_10
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.33.20:611][189]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.06-08.33.20:776][189]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.33.20:776][189]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.33.20:776][189]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.33.20:777][189]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.33.20:777][189]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.33.20:777][189]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.33.20:991][189]LogUObjectHash: Compacting FUObjectHashTables data took  53.43ms
+[2021.08.06-08.33.21:710][193]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.33.21:711][193]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.33.21:711][193]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.33.21:767][194]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.33.21:767][194]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.33.21:767][194]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.33.21:809][195]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.33.21:810][195]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.33.21:810][195]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.33.21:862][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_11
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.33.25:720][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/怪物控制BA/BA_怪物動畫" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BA_怪物動畫.uasset" SILENT=true
+[2021.08.06-08.33.25:950][267]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BA_怪物動畫2206F8FF48EBE54EE1BCF9835F74A026.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BA_怪物動畫.uasset'
+[2021.08.06-08.33.26:085][267]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.06-08.33.26:086][267]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫
+[2021.08.06-08.33.45:656][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/怪物控制BA/BA_怪物動畫" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BA_怪物動畫.uasset" SILENT=true
+[2021.08.06-08.33.45:800][624]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BA_怪物動畫CFAC796E4ACCBA54B210E19B0152122E.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BA_怪物動畫.uasset'
+[2021.08.06-08.33.45:929][624]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.06-08.33.45:929][624]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫
+[2021.08.06-08.33.46:280][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/怪物控制BA/BA_怪物動畫" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BA_怪物動畫.uasset" SILENT=true
+[2021.08.06-08.33.46:432][626]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BA_怪物動畫BDCB6299488D089C0BE73F91A2D453B0.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BA_怪物動畫.uasset'
+[2021.08.06-08.33.46:550][626]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.06-08.33.46:550][626]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫
+[2021.08.06-08.34.48:426][648]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.06-08.34.48:595][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_12
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.34.48:595][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_12
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.34.48:596][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_12
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.34.48:597][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_12
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.34.48:597][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_12
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.34.48:597][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_12
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.34.48:748][648]LogUObjectHash: Compacting FUObjectHashTables data took  32.20ms
+[2021.08.06-08.34.49:319][650]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.08.06-08.34.49:500][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_12
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.34.49:502][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_12
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.34.49:503][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_12
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.34.49:504][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_13
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.34.49:504][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_13
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.34.49:504][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_13
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.34.49:505][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_13
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.34.49:506][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_13
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.34.49:506][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_13
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.34.49:507][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_13
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.34.49:508][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_13
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.34.49:508][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_13
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.34.49:508][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.34.49:508][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.34.49:508][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.34.49:508][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.34.49:508][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.34.49:508][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.34.49:679][650]LogUObjectHash: Compacting FUObjectHashTables data took  38.56ms
+[2021.08.06-08.34.50:133][652]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.34.50:134][652]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.34.50:134][652]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.34.50:344][653]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.34.50:344][653]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.34.50:344][653]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.34.50:394][654]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.34.50:395][654]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.08.06-08.34.50:396][654]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.08.06-08.34.50:510][655]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_14
+	Function /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.08.06-08.35.21:974][831]LogUObjectHash: Compacting FUObjectHashTables data took  72.90ms
+[2021.08.06-08.35.21:982][831]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/City_of_Brass_Enviroment/Maps/Demo_Streets' took 0.303
+[2021.08.06-08.35.21:986][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/怪物控制BA/BA_怪物動畫] ([2] browsable assets)...
+[2021.08.06-08.35.22:080][831]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫]
+[2021.08.06-08.35.22:167][831]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫]
+[2021.08.06-08.35.22:167][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/怪物控制BA/BA_怪物動畫]
+[2021.08.06-08.35.22:400][831]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BA_怪物動畫_Auto41B7D9F3D489D965D06DA7DBF73A5386D.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Autosaves/Game/BP/怪物控制BA/BA_怪物動畫_Auto4.uasset'
+[2021.08.06-08.35.22:411][831]LogFileHelpers: Auto-saving content packages took 0.428
+[2021.08.06-08.36.07:875][988]LogUObjectHash: Compacting FUObjectHashTables data took   9.91ms
+[2021.08.06-08.36.07:941][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/怪物控制BA/BA_怪物動畫" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BA_怪物動畫.uasset" SILENT=true
+[2021.08.06-08.36.08:014][988]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BA_怪物動畫704202554ED2395386549E9EBF72F3D6.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/怪物控制BA/BA_怪物動畫.uasset'
+[2021.08.06-08.36.08:094][988]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.08.06-08.36.08:095][988]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/怪物控制BA/BA_怪物動畫.BA_怪物動畫
