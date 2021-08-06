@@ -11151,3 +11151,288 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.06-13.23.51:755][707]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
 [2021.08.06-13.23.51:755][707]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_子彈.BP_子彈
 [2021.08.06-13.24.56:915][812]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-13.26.24:936][154]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-13.26.25:104][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.08.06-13.26.25:975][177]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-13.26.26:087][177]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.08.06-13.27.10:316][522]LogEditorTransaction: Undo Create Pin Link
+[2021.08.06-13.27.20:415][ 38]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-13.27.20:534][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.08.06-13.28.22:421][286]LogEditorTransaction: Undo Move Node
+[2021.08.06-13.29.35:234][401]LogEditorTransaction: Undo Move Nodes
+[2021.08.06-13.29.42:025][729]LogEditorTransaction: Undo Move Nodes
+[2021.08.06-13.30.00:234][729]LogEditorTransaction: Undo Move Nodes
+[2021.08.06-13.30.10:786][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.06-13.30.10:893][230]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_玩家控制A1D0A02F4541D629581964A454BDF98B.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset'
+[2021.08.06-13.30.10:916][230]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.06-13.30.10:916][230]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-13.30.12:268][309]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-13.30.12:384][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.08.06-13.30.13:894][376]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.08.06-13.30.13:953][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.08.06-13.30.14:320][376]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_StreetsEF22390A4081952D4A558C81C465742A.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-13.30.14:328][376]LogFileHelpers: Saving map 'Demo_Streets' took 0.411
+[2021.08.06-13.30.14:344][376]AssetCheck: New page: Asset Save: Demo_Streets
+[2021.08.06-13.30.14:344][376]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-13.31.26:232][ 50]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-13.31.26:343][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.08.06-13.33.28:795][584]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-13.33.28:910][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.08.06-13.33.29:835][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.08.06-13.33.29:958][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.06-13.33.30:460][600]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_Streets4FF8ACA9487AF916A44AFBAF7E784A10.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-13.33.30:470][600]LogFileHelpers: Saving map 'Demo_Streets' took 0.558
+[2021.08.06-13.33.30:514][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.06-13.33.30:686][600]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_玩家控制9779E8A84D3E6C128C2E1B98891DC9B2.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset'
+[2021.08.06-13.33.30:716][600]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-13.33.30:716][600]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-13.33.30:717][600]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-13.34.05:664][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.08.06-13.34.05:698][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.06-13.34.05:797][198]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_玩家控制6689817B4FD36E4B849E1A8658C68107.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset'
+[2021.08.06-13.34.05:821][198]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.06-13.34.05:821][198]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-13.35.31:309][532]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-13.35.31:446][532]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.08.06-13.35.31:859][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.06-13.35.32:012][532]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_玩家控制DA44DE684A84976F1E8D328FAC8DC81D.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset'
+[2021.08.06-13.35.32:049][532]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.06-13.35.32:049][532]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-13.35.34:346][617]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_武器.BP_武器
+[2021.08.06-13.36.41:803][338]BlueprintLog: New page: Compile BP_武器
+[2021.08.06-13.36.42:324][338]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.08.06-13.36.58:581][290]BlueprintLog: New page: Compile BP_武器
+[2021.08.06-13.36.58:664][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.08.06-13.38.15:862][707]LogEditorTransaction: Undo Move Node
+[2021.08.06-13.38.18:329][815]BlueprintLog: New page: Compile BP_武器
+[2021.08.06-13.38.18:414][815]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.08.06-13.38.19:357][858]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.08.06-13.38.19:472][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.08.06-13.38.19:878][858]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_Streets3E5AFB7A450D258553D102861CFE7540.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-13.38.19:889][858]LogFileHelpers: Saving map 'Demo_Streets' took 0.455
+[2021.08.06-13.38.19:930][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_武器.uasset" SILENT=true
+[2021.08.06-13.38.20:010][858]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_武器119651A04335A875B52A9489B039D0ED.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_武器.uasset'
+[2021.08.06-13.38.20:038][858]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-13.38.20:038][858]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-13.38.20:038][858]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.08.06-13.38.43:402][234]BlueprintLog: New page: Compile BP_武器
+[2021.08.06-13.38.43:485][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.08.06-13.38.43:913][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_武器.uasset" SILENT=true
+[2021.08.06-13.38.43:958][244]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_武器177343814B582B5219A48D99D0396683.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_武器.uasset'
+[2021.08.06-13.38.43:988][244]AssetCheck: New page: Asset Save: BP_武器
+[2021.08.06-13.38.43:988][244]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.08.06-13.38.44:834][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_武器.uasset" SILENT=true
+[2021.08.06-13.38.44:882][282]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_武器83DC80AF40F8D4925E7FE483B25F4484.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_武器.uasset'
+[2021.08.06-13.38.44:911][282]AssetCheck: New page: Asset Save: BP_武器
+[2021.08.06-13.38.44:911][282]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.08.06-13.39.14:934][729]LogEditorTransaction: Undo Move Node
+[2021.08.06-13.39.24:034][199]BlueprintLog: New page: Compile BP_武器
+[2021.08.06-13.39.24:128][199]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.08.06-13.39.48:580][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.08.06-13.39.48:653][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_武器.uasset" SILENT=true
+[2021.08.06-13.39.48:702][630]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_武器D2B084E1433576C7C65AF3875A5C9FF6.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_武器.uasset'
+[2021.08.06-13.39.48:722][630]AssetCheck: New page: Asset Save: BP_武器
+[2021.08.06-13.39.48:722][630]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.08.06-13.44.25:365][360]LogUObjectHash: Compacting FUObjectHashTables data took  11.47ms
+[2021.08.06-13.44.25:465][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.08.06-13.44.25:876][360]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_Streets033112D24A15C8E1C35AF7B4300E8AFE.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-13.44.25:888][360]LogFileHelpers: Saving map 'Demo_Streets' took 0.458
+[2021.08.06-13.44.25:984][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.06-13.44.26:171][360]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_怪物FF26BD474F7C23417D84DBBC34761585.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_怪物.uasset'
+[2021.08.06-13.44.26:201][360]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-13.44.26:201][360]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-13.44.26:201][360]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.06-13.44.27:261][422]BlueprintLog: New page: Compile BP_怪物
+[2021.08.06-13.44.27:453][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.08.06-13.44.28:149][449]BlueprintLog: New page: Compile BP_怪物
+[2021.08.06-13.44.28:337][449]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.08.06-13.47.34:233][636]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-13.47.34:256][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-13.47.34:256][636]PIE: New page: PIE session: Demo_Streets (2021年8月7日 上午5:47:34)
+[2021.08.06-13.47.34:257][636]LogPlayLevel: Creating play world package: /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.47.34:374][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117301s)
+[2021.08.06-13.47.34:378][636]LogAIModule: Creating AISystem for world Demo_Streets
+[2021.08.06-13.47.34:379][636]LogPlayLevel: PIE: World Init took: (0.004437s)
+[2021.08.06-13.47.34:379][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets to /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets (0.122195s)
+[2021.08.06-13.47.34:436][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.08.06-13.47.34:438][636]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.08.06-13.47.34:438][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-13.47.34:438][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-13.47.34:438][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-13.47.34:438][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-13.47.34:438][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-13.47.34:438][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-13.47.34:438][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-13.47.34:438][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-13.47.34:439][636]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-13.47.34:439][636]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-13.47.34:444][636]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-13.47.34:444][636]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-13.47.34:507][636]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.06-13.47.34:694][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-13.47.34:695][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-13.47.34:695][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-13.47.34:699][636]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-13.47.34:700][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-13.47.34:700][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-13.47.34:704][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-13.47.34:704][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-13.47.34:704][636]LogInit: FAudioDevice initialized.
+[2021.08.06-13.47.34:704][636]LogAudio: Display: Audio Device (ID: 32) registered with world 'Demo_Streets'.
+[2021.08.06-13.47.34:932][636]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.06-13.47.34:984][636]LogWorld: Bringing World /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets up for play (max tick rate 60) at 2021.08.06-21.47.34
+[2021.08.06-13.47.34:986][636]LogWorld: Bringing up level for play took: 0.050778
+[2021.08.06-13.47.34:987][636]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2021.08.06-13.47.35:011][636]PIE: Server logged in
+[2021.08.06-13.47.35:012][636]PIE: Play in editor total start time 0.769 seconds.
+[2021.08.06-13.47.37:395][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.47.37:395][732]LogWorld: BeginTearingDown for /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.47.37:396][732]LogWorld: UWorld::CleanupWorld for Demo_Streets, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.47.37:401][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.47.37:437][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-13.47.37:488][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.47.37:528][732]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-13.47.37:528][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.47.37:530][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.47.37:556][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.47.37:572][732]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.08.06-13.47.37:695][733]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2021.08.06-13.48.00:215][848]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-13.48.00:370][848]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.08.06-13.48.01:528][886]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-13.48.01:543][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-13.48.01:543][886]PIE: New page: PIE session: Demo_Streets (2021年8月7日 上午5:48:01)
+[2021.08.06-13.48.01:544][886]LogPlayLevel: Creating play world package: /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.48.01:598][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053631s)
+[2021.08.06-13.48.01:600][886]LogAIModule: Creating AISystem for world Demo_Streets
+[2021.08.06-13.48.01:600][886]LogPlayLevel: PIE: World Init took: (0.002663s)
+[2021.08.06-13.48.01:600][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets to /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets (0.056599s)
+[2021.08.06-13.48.01:640][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.08.06-13.48.01:641][886]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.08.06-13.48.01:641][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-13.48.01:641][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-13.48.01:641][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-13.48.01:641][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-13.48.01:641][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-13.48.01:641][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-13.48.01:641][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-13.48.01:641][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-13.48.01:641][886]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-13.48.01:641][886]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-13.48.01:645][886]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-13.48.01:645][886]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-13.48.01:690][886]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.06-13.48.01:692][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-13.48.01:692][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-13.48.01:692][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-13.48.01:692][886]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-13.48.01:692][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-13.48.01:692][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-13.48.01:712][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-13.48.01:712][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-13.48.01:712][886]LogInit: FAudioDevice initialized.
+[2021.08.06-13.48.01:712][886]LogAudio: Display: Audio Device (ID: 33) registered with world 'Demo_Streets'.
+[2021.08.06-13.48.01:726][886]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.06-13.48.01:744][886]LogWorld: Bringing World /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets up for play (max tick rate 60) at 2021.08.06-21.48.01
+[2021.08.06-13.48.01:745][886]LogWorld: Bringing up level for play took: 0.017526
+[2021.08.06-13.48.01:746][886]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2021.08.06-13.48.01:753][886]PIE: Server logged in
+[2021.08.06-13.48.01:754][886]PIE: Play in editor total start time 0.219 seconds.
+[2021.08.06-13.48.04:724][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.48.04:724][ 20]LogWorld: BeginTearingDown for /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.48.04:724][ 20]LogWorld: UWorld::CleanupWorld for Demo_Streets, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.48.04:728][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.48.04:737][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-13.48.04:784][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.48.04:819][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.48.04:821][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.48.04:822][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.48.04:851][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.08.06-13.48.04:903][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2021.08.06-13.48.58:019][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.08.06-13.48.58:098][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.08.06-13.48.58:455][355]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_Streets991FC3F0417E76CFDFBD48A9CE75B4D4.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-13.48.58:465][355]LogFileHelpers: Saving map 'Demo_Streets' took 0.407
+[2021.08.06-13.48.58:583][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.06-13.48.58:739][355]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_玩家控制078BC8AA4B0B2DB2B83693BB2A3EAB36.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset'
+[2021.08.06-13.48.58:883][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.06-13.48.59:092][355]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_怪物D5992A024BCD8722B35C40A74446AF8E.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_怪物.uasset'
+[2021.08.06-13.48.59:137][355]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-13.48.59:137][355]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-13.48.59:137][355]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-13.48.59:137][355]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.06-13.48.59:673][373]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.48.59:673][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.49.00:474][398]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.06-13.49.00:474][398]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.49.00:474][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.49.01:090][417]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.06-13.49.01:090][417]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.49.01:091][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.49.01:716][428]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.06-13.49.01:716][428]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.49.01:716][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.49.12:058][939]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.06-13.51.49:610][128]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.06-13.51.50:749][193]Cmd: TRANSACTION UNDO
+[2021.08.06-13.51.50:749][193]LogEditorTransaction: Undo Edit Shadow Color
+[2021.08.06-13.52.06:614][ 99]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.06-13.52.12:747][443]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.06-13.54.05:813][541]LogEditorTransaction: Undo Set Playback Range
+[2021.08.06-13.54.06:811][573]LogEditorTransaction: Undo Add Keys at Current Time
+[2021.08.06-13.54.33:502][123]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-13.54.33:590][123]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.08.06-13.55.44:698][496]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-13.55.44:765][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.08.06-13.56.50:522][314]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-13.56.50:589][314]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.08.06-13.58.56:447][985]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-13.58.56:513][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.08.06-13.59.46:246][810]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-13.59.46:311][810]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.08.06-14.00.12:052][108]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-14.00.12:112][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.08.06-14.00.13:217][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.08.06-14.00.13:249][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.06-14.00.13:344][170]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲介面1114373545F67FAB4278F99BA52BD2DE.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset'
+[2021.08.06-14.00.13:364][170]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.06-14.00.13:364][170]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.06-14.00.37:466][993]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-14.00.37:553][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.08.06-14.00.44:120][ 87]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.08.06-14.01.34:105][803]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.06-14.01.40:449][114]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-14.01.40:449][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-14.01.41:976][173]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-14.03.17:729][992]LogContentBrowser: Attempting asset rename: Example_Streets -> Example_Streets
+[2021.08.06-14.03.39:853][233]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-14.03.40:520][233]LogUObjectHash: Compacting FUObjectHashTables data took  14.25ms
+[2021.08.06-14.05.00:402][906]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-14.05.00:604][906]LogUObjectHash: Compacting FUObjectHashTables data took  12.26ms
+[2021.08.06-14.05.03:483][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2021.08.06-14.05.03:666][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.06-14.05.03:915][ 31]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_玩家控制FE17EBB1404338A00A7E1F806170A733.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset'
+[2021.08.06-14.05.03:920][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.06-14.05.04:075][ 31]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲介面5456B7A74D4D030EF9AF1DBBFF6ECE46.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset'
+[2021.08.06-14.05.04:077][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲模式" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲模式.uasset" SILENT=true
+[2021.08.06-14.05.04:100][ 31]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲模式0B15846641588E99C3C25DA3C5AD7F7C.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲模式.uasset'
+[2021.08.06-14.05.04:133][ 31]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-14.05.04:134][ 31]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-14.05.04:134][ 31]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.06-14.05.04:136][ 31]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.06-14.05.10:235][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.08.06-14.05.10:280][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.06-14.05.10:424][381]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_玩家控制5A6E265A44274191E67F1D801E38B56D.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset'
+[2021.08.06-14.05.10:448][381]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.06-14.05.10:448][381]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-14.05.11:759][457]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-14.05.11:931][457]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.08.06-14.05.50:899][732]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.08.06-14.05.50:900][732]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/City_of_Brass_Enviroment/Maps/Demo_Streets' took 0.047
+[2021.08.06-14.05.50:901][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_玩家控制] ([1] browsable assets)...
+[2021.08.06-14.05.50:938][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_玩家控制.BP_玩家控制]
+[2021.08.06-14.05.50:939][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_玩家控制]
+[2021.08.06-14.05.51:064][732]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_玩家控制_Auto98FD2563E4790AA3ECBF6D3915AA4DBFB.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Autosaves/Game/BP/BP_玩家控制_Auto9.uasset'
+[2021.08.06-14.05.51:185][732]LogFileHelpers: Auto-saving content packages took 0.285
+[2021.08.06-14.06.09:086][781]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-14.06.09:205][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
