@@ -10534,3 +10534,620 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.06-12.43.02:249][200]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
 [2021.08.06-12.43.03:456][273]BlueprintLog: New page: Compile BP_怪物
 [2021.08.06-12.43.03:671][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.08.06-12.45.21:045][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.08.06-12.45.21:120][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.08.06-12.45.21:513][ 32]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_StreetsB0F583FF461647430C2CEC857B897ACC.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-12.45.21:521][ 32]LogFileHelpers: Saving map 'Demo_Streets' took 0.441
+[2021.08.06-12.45.21:540][ 32]AssetCheck: New page: Asset Save: Demo_Streets
+[2021.08.06-12.45.21:541][ 32]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-12.45.23:448][144]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-12.45.23:448][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-12.45.24:107][158]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-12.45.24:108][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-12.45.24:116][158]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-12.45.24:117][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-12.45.24:342][158]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-12.45.24:343][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-12.45.24:810][171]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-12.45.24:810][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-12.47.40:686][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.06-12.48.17:922][991]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.06-12.52.13:543][706]LogEditorTransaction: Undo Add Node
+[2021.08.06-12.54.17:131][661]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-12.54.17:665][661]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2021.08.06-12.54.19:035][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.08.06-12.54.19:086][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.06-12.54.19:221][723]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲介面107423B74CF0618FCE54F7BC37A1A262.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset'
+[2021.08.06-12.54.19:355][723]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.06-12.54.19:356][723]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.06-12.55.17:571][957]LogEditorTransaction: Undo Add Node
+[2021.08.06-12.55.30:466][657]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-12.55.30:611][657]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.08.06-12.55.32:184][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.08.06-12.55.32:218][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.06-12.55.32:300][739]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲介面4B52975A494B5B04BC68A7A00CED8C6A.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset'
+[2021.08.06-12.55.32:319][739]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.06-12.55.32:319][739]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.06-12.56.41:884][829]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-12.56.41:965][829]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.08.06-12.56.45:044][  8]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-12.56.45:138][  8]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.08.06-12.56.46:733][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.08.06-12.56.46:767][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.06-12.56.46:851][ 95]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲介面F67365114185149B546EA79526E22E03.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset'
+[2021.08.06-12.56.46:870][ 95]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.06-12.56.46:871][ 95]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.06-13.02.11:051][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.08.06-13.02.11:053][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/City_of_Brass_Enviroment/Maps/Demo_Streets' took 0.064
+[2021.08.06-13.02.11:054][ 16]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_遊戲介面] ([1] browsable assets)...
+[2021.08.06-13.02.11:054][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_遊戲介面]
+[2021.08.06-13.02.11:136][ 16]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲介面_Auto8F510B92A464DE74231C86DACB886660B.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Autosaves/Game/BP/BP_遊戲介面_Auto8.uasset'
+[2021.08.06-13.02.11:228][ 16]LogFileHelpers: Auto-saving content packages took 0.174
+[2021.08.06-13.02.16:251][311]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-13.02.16:315][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.08.06-13.02.17:267][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.06-13.02.17:352][363]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲介面8B7D327A4FC71F82568FC4A57D53ABB4.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset'
+[2021.08.06-13.02.17:383][363]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.06-13.02.17:383][363]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.06-13.03.05:677][193]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.06-13.03.55:514][ 59]BlueprintLog: New page: Compile BP_怪物
+[2021.08.06-13.03.55:740][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.08.06-13.04.13:140][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-13.04.13:157][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-13.04.13:158][ 79]PIE: New page: PIE session: Demo_Streets (2021年8月7日 上午5:04:13)
+[2021.08.06-13.04.13:179][ 79]LogPlayLevel: Creating play world package: /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.04.13:246][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067825s)
+[2021.08.06-13.04.13:250][ 79]LogAIModule: Creating AISystem for world Demo_Streets
+[2021.08.06-13.04.13:251][ 79]LogPlayLevel: PIE: World Init took: (0.004742s)
+[2021.08.06-13.04.13:251][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets to /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets (0.073329s)
+[2021.08.06-13.04.13:293][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.08.06-13.04.13:297][ 79]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.08.06-13.04.13:298][ 79]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-13.04.13:298][ 79]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-13.04.13:298][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-13.04.13:298][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-13.04.13:298][ 79]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-13.04.13:298][ 79]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-13.04.13:298][ 79]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-13.04.13:298][ 79]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-13.04.13:299][ 79]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-13.04.13:299][ 79]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-13.04.13:307][ 79]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-13.04.13:307][ 79]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-13.04.13:365][ 79]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.06-13.04.13:367][ 79]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-13.04.13:367][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-13.04.13:367][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-13.04.13:368][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-13.04.13:368][ 79]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-13.04.13:368][ 79]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-13.04.13:392][ 79]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-13.04.13:392][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-13.04.13:392][ 79]LogInit: FAudioDevice initialized.
+[2021.08.06-13.04.13:393][ 79]LogAudio: Display: Audio Device (ID: 27) registered with world 'Demo_Streets'.
+[2021.08.06-13.04.13:458][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.04.13:458][ 79]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.06-13.04.13:502][ 79]LogWorld: Bringing World /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets up for play (max tick rate 60) at 2021.08.06-21.04.13
+[2021.08.06-13.04.13:504][ 79]LogWorld: Bringing up level for play took: 0.044245
+[2021.08.06-13.04.13:504][ 79]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2021.08.06-13.04.13:661][ 79]PIE: Server logged in
+[2021.08.06-13.04.13:663][ 79]PIE: Play in editor total start time 0.515 seconds.
+[2021.08.06-13.04.22:505][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.04.22:505][478]LogWorld: BeginTearingDown for /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.04.22:506][478]LogSlate: Window 'Unreal_FPS Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-13.04.22:517][478]LogWorld: UWorld::CleanupWorld for Demo_Streets, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.04.22:528][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.04.22:554][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-13.04.22:614][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.04.22:669][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-13.04.22:671][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.04.22:673][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.04.22:715][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.08.06-13.04.22:838][479]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2021.08.06-13.06.40:589][744]BlueprintLog: New page: Compile BP_遊戲模式
+[2021.08.06-13.06.40:661][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.08.06-13.07.13:727][771]LogEditorTransaction: Undo Move Node
+[2021.08.06-13.07.14:219][778]LogEditorTransaction: Undo Move Node
+[2021.08.06-13.07.46:260][132]BlueprintLog: New page: Compile BP_遊戲模式
+[2021.08.06-13.07.46:333][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.08.06-13.08.15:680][805]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-13.08.15:749][805]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.08.06-13.08.16:773][862]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.08.06-13.08.16:842][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.06-13.08.17:364][862]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_StreetsB229C7BA482E7AD8183335B013F26D6D.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-13.08.17:378][862]LogFileHelpers: Saving map 'Demo_Streets' took 0.575
+[2021.08.06-13.08.17:378][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.06-13.08.17:496][862]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲介面F3FB873D4CEEAA8D11CC2582A0553B13.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset'
+[2021.08.06-13.08.17:497][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲模式" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲模式.uasset" SILENT=true
+[2021.08.06-13.08.17:514][862]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲模式666A039147C60263F6C5F28917B8DC45.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲模式.uasset'
+[2021.08.06-13.08.17:613][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.06-13.08.17:673][862]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_怪物065D656343E0AA436D8F579C3686C718.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_怪物.uasset'
+[2021.08.06-13.08.17:700][862]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-13.08.17:700][862]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-13.08.17:700][862]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.06-13.08.17:701][862]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.06-13.08.17:702][862]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.06-13.08.33:115][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.08.06-13.08.33:142][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.06-13.08.33:226][772]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲介面1FABADE044EDB0D44891B1BC29409402.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset'
+[2021.08.06-13.08.33:246][772]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.06-13.08.33:246][772]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.06-13.09.00:382][359]LogEditorTransaction: Undo Add Node
+[2021.08.06-13.10.37:213][738]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-13.10.37:306][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.08.06-13.10.39:419][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.08.06-13.10.39:453][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.06-13.10.39:551][857]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲介面D2A6633A4E2736411CED6492EC54A413.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset'
+[2021.08.06-13.10.39:553][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲模式" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲模式.uasset" SILENT=true
+[2021.08.06-13.10.39:593][857]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲模式A637F1CB4179A41D48CE5195D65E5C48.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲模式.uasset'
+[2021.08.06-13.10.39:616][857]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-13.10.39:616][857]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.06-13.10.39:618][857]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.06-13.11.12:925][691]BlueprintLog: New page: Compile BP_遊戲模式
+[2021.08.06-13.11.13:016][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.08.06-13.11.13:246][696]BlueprintLog: New page: Compile BP_遊戲模式
+[2021.08.06-13.11.13:328][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.08.06-13.11.21:999][ 19]LogContentBrowser: Deferred new asset file creation: NewTextureRenderTarget2D
+[2021.08.06-13.11.22:165][ 19]LogContentBrowser: Creating deferred item: NewTextureRenderTarget2D
+[2021.08.06-13.11.33:409][632]LogContentBrowser: Attempting asset rename: NewTextureRenderTarget2D -> RT_小地圖
+[2021.08.06-13.11.33:540][632]LogContentBrowser: End creating deferred item NewTextureRenderTarget2D
+[2021.08.06-13.11.33:854][642]LogAssetEditorSubsystem: Opening Asset editor for TextureRenderTarget2D /Game/BP/素材/RT_小地圖.RT_小地圖
+[2021.08.06-13.11.34:442][642]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0028 seconds. Added 1 classes and 2 folders.
+[2021.08.06-13.11.48:153][114]LogSlate: Window 'RT_小地圖' being destroyed
+[2021.08.06-13.11.49:437][189]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.11.49:437][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.11.50:123][220]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.11.50:123][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.11.50:136][220]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.11.50:136][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.11.50:701][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.06-13.11.50:701][248]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.11.50:701][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.12.05:726][768]LogContentBrowser: Deferred new asset file creation: RT_小地圖_Mat
+[2021.08.06-13.12.05:774][768]LogContentBrowser: Creating deferred item: RT_小地圖_Mat
+[2021.08.06-13.12.19:518][544]LogContentBrowser: Attempting asset rename: RT_小地圖_Mat -> M_小地圖_Mat
+[2021.08.06-13.12.19:565][544]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.12.19:652][544]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.08.06-13.12.19:652][544]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.06-13.12.19:652][544]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.06-13.12.19:653][544]LogContentBrowser: End creating deferred item RT_小地圖_Mat
+[2021.08.06-13.12.25:553][714]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BP/素材/M_小地圖_Mat.M_小地圖_Mat
+[2021.08.06-13.12.25:725][714]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.12.26:165][714]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.06-13.12.26:166][714]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.06-13.12.26:873][714]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.12.26:981][714]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.06-13.12.26:981][714]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.06-13.12.26:981][714]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.06-13.12.26:981][714]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.06-13.12.27:021][714]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.12.27:093][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.06-13.12.28:191][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.06-13.12.28:240][726]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.08.06-13.12.28:840][738]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.06-13.12.29:114][743]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.08.06-13.12.29:678][749]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.08.06-13.12.29:726][749]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.06-13.12.29:941][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.06-13.12.30:630][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.06-13.12.31:035][774]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.06-13.12.31:464][782]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.06-13.12.32:342][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.06-13.12.32:692][806]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.06-13.12.32:782][808]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.06-13.12.33:328][820]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.06-13.12.33:328][820]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.06-13.12.33:328][820]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.06-13.12.33:328][820]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.06-13.12.33:328][820]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.06-13.12.33:328][820]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.06-13.12.36:241][897]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.12.36:691][897]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.06-13.12.36:691][897]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.06-13.12.36:691][897]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.06-13.12.36:691][897]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.06-13.12.37:059][899]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.06-13.12.37:362][904]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.06-13.12.37:784][912]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.06-13.12.37:838][913]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.06-13.12.38:824][931]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.06-13.12.40:182][954]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.12.40:216][954]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.06-13.12.40:216][954]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.06-13.12.40:216][954]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.06-13.12.40:216][954]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.06-13.12.40:226][954]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.12.40:255][954]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.12.40:593][960]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.06-13.12.40:898][966]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.06-13.12.41:291][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.08.06-13.12.41:633][981]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.06-13.12.41:784][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.06-13.12.42:073][990]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.06-13.12.42:118][991]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.06-13.12.42:205][993]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.06-13.12.42:358][997]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.06-13.12.43:048][  9]MaterialEditorStats: Default UI Pixel Shader: 30 instructions
+[2021.08.06-13.12.43:048][  9]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.06-13.12.43:048][  9]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.06-13.12.43:166][  9]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.06-13.12.53:400][ 93]LogSlate: Window 'M_小地圖_Mat' being destroyed
+[2021.08.06-13.13.01:440][466]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.06-13.13.26:472][793]LogEditorTransaction: Undo Edit Y
+[2021.08.06-13.13.26:570][793]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.13.26:590][793]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.06-13.13.26:590][793]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.06-13.13.26:590][793]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.06-13.13.26:590][793]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.06-13.13.26:912][797]LogEditorTransaction: Undo Edit X
+[2021.08.06-13.13.26:965][797]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.13.27:061][797]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.06-13.13.27:244][806]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.06-13.13.28:054][837]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.08.06-13.13.28:344][842]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.08.06-13.13.28:344][842]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.06-13.13.28:360][843]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.06-13.13.28:690][856]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.06-13.13.28:858][862]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.06-13.13.28:858][862]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.06-13.13.29:305][882]MaterialEditorStats: Default UI Pixel Shader: 30 instructions
+[2021.08.06-13.13.29:306][882]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.06-13.13.29:306][882]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.06-13.13.29:306][882]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.06-13.13.33:136][110]LogEditorTransaction: Undo Edit Left
+[2021.08.06-13.13.33:199][110]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.13.33:209][110]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.06-13.13.33:209][110]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.06-13.13.33:209][110]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.06-13.13.33:209][110]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.06-13.13.33:463][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.06-13.13.33:675][116]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.06-13.13.33:923][126]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.06-13.13.34:094][133]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.06-13.13.34:116][134]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.06-13.13.34:582][154]MaterialEditorStats: Default UI Pixel Shader: 30 instructions
+[2021.08.06-13.13.34:582][154]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.06-13.13.34:582][154]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.06-13.13.34:582][154]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.06-13.14.20:918][617]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-13.14.21:268][617]LogUObjectHash: Compacting FUObjectHashTables data took  14.31ms
+[2021.08.06-13.14.59:023][336]LogEditorTransaction: Undo Edit ZOrder
+[2021.08.06-13.14.59:131][336]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.14.59:145][336]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.06-13.14.59:145][336]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.06-13.14.59:145][336]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.06-13.14.59:145][336]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.06-13.14.59:784][352]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.06-13.15.00:028][356]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.06-13.15.00:332][366]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.06-13.15.00:531][373]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.06-13.15.00:576][375]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.06-13.15.01:064][394]MaterialEditorStats: Default UI Pixel Shader: 30 instructions
+[2021.08.06-13.15.01:064][394]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.06-13.15.01:064][394]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.06-13.15.01:064][394]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.06-13.15.32:189][869]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-13.15.32:432][869]LogUObjectHash: Compacting FUObjectHashTables data took  12.10ms
+[2021.08.06-13.15.33:001][888]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.06-13.15.33:061][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.08.06-13.15.35:164][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2021.08.06-13.15.35:238][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.08.06-13.15.35:656][978]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_Streets0AF04A7E4EE2FBD6931F9DB2B88BC6E6.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-13.15.35:670][978]LogFileHelpers: Saving map 'Demo_Streets' took 0.465
+[2021.08.06-13.15.35:670][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.06-13.15.35:780][978]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_遊戲介面C52065E34ECA5946B44D56BFE9097AEA.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_遊戲介面.uasset'
+[2021.08.06-13.15.35:787][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/素材/RT_小地圖" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/素材/RT_小地圖.uasset" SILENT=true
+[2021.08.06-13.15.35:820][978]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/RT_小地圖2C71F1134D3530B6F97DDF895FDB68E1.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/素材/RT_小地圖.uasset'
+[2021.08.06-13.15.35:871][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/素材/M_小地圖_Mat" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/素材/M_小地圖_Mat.uasset" SILENT=true
+[2021.08.06-13.15.35:879][978]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/M_小地圖_MatBACBCB9D47C112894005CAB0BCC7876A.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/素材/M_小地圖_Mat.uasset'
+[2021.08.06-13.15.35:978][978]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-13.15.35:979][978]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-13.15.35:979][978]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.06-13.15.35:981][978]LogContentValidation: Display: Validating TextureRenderTarget2D /Game/BP/素材/RT_小地圖.RT_小地圖
+[2021.08.06-13.15.35:981][978]LogContentValidation: Display: Validating Material /Game/BP/素材/M_小地圖_Mat.M_小地圖_Mat
+[2021.08.06-13.15.39:831][118]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-13.16.30:424][810]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-13.16.30:536][810]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.08.06-13.17.12:422][159]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.08.06-13.17.12:578][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.06-13.17.12:730][159]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_玩家控制07991BFC4E11A3A2CAE1919A5046D680.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset'
+[2021.08.06-13.17.12:757][159]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.06-13.17.12:757][159]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-13.17.13:903][216]BlueprintLog: New page: Compile BP_玩家控制
+[2021.08.06-13.17.14:183][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.08.06-13.17.14:690][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.08.06-13.17.49:007][888]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-13.17.49:041][888]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.06-13.17.49:051][888]LogPlayLevel: [PlayLevel] Compiling BP_玩家控制 before play...
+[2021.08.06-13.17.49:310][888]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2021.08.06-13.17.49:319][888]LogPlayLevel: PlayLevel: Blueprint regeneration took 277 ms (1 blueprints)
+[2021.08.06-13.17.49:319][888]PIE: New page: PIE session: Demo_Streets (2021年8月7日 上午5:17:49)
+[2021.08.06-13.17.49:319][888]LogPlayLevel: Creating play world package: /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.17.49:404][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083934s)
+[2021.08.06-13.17.49:406][888]LogAIModule: Creating AISystem for world Demo_Streets
+[2021.08.06-13.17.49:407][888]LogPlayLevel: PIE: World Init took: (0.003060s)
+[2021.08.06-13.17.49:407][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets to /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets (0.087302s)
+[2021.08.06-13.17.49:455][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.08.06-13.17.49:455][888]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.08.06-13.17.49:455][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-13.17.49:455][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-13.17.49:455][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-13.17.49:455][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-13.17.49:455][888]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-13.17.49:455][888]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-13.17.49:455][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-13.17.49:455][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-13.17.49:456][888]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-13.17.49:456][888]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-13.17.49:463][888]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-13.17.49:463][888]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-13.17.49:541][888]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.06-13.17.49:542][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-13.17.49:542][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-13.17.49:542][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-13.17.49:544][888]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-13.17.49:544][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-13.17.49:544][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-13.17.49:582][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-13.17.49:582][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-13.17.49:582][888]LogInit: FAudioDevice initialized.
+[2021.08.06-13.17.49:582][888]LogAudio: Display: Audio Device (ID: 28) registered with world 'Demo_Streets'.
+[2021.08.06-13.17.49:636][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.17.49:636][888]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.06-13.17.49:680][888]LogWorld: Bringing World /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets up for play (max tick rate 60) at 2021.08.06-21.17.49
+[2021.08.06-13.17.49:683][888]LogWorld: Bringing up level for play took: 0.045427
+[2021.08.06-13.17.49:684][888]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2021.08.06-13.17.49:727][888]PIE: Server logged in
+[2021.08.06-13.17.49:729][888]PIE: Play in editor total start time 0.697 seconds.
+[2021.08.06-13.17.55:626][ 83]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.08.06-13.17.57:785][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.17.57:785][177]LogWorld: BeginTearingDown for /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.17.57:786][177]LogSlate: Window 'Unreal_FPS Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-13.17.57:803][177]LogWorld: UWorld::CleanupWorld for Demo_Streets, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.17.57:810][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.17.57:820][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-13.17.57:885][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.17.57:923][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.17.57:926][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.17.58:015][177]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.08.06-13.17.58:048][178]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2021.08.06-13.18.15:294][287]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-13.18.15:320][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-13.18.15:321][287]PIE: New page: PIE session: Demo_Streets (2021年8月7日 上午5:18:15)
+[2021.08.06-13.18.15:321][287]LogPlayLevel: Creating play world package: /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.18.15:410][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087994s)
+[2021.08.06-13.18.15:412][287]LogAIModule: Creating AISystem for world Demo_Streets
+[2021.08.06-13.18.15:413][287]LogPlayLevel: PIE: World Init took: (0.002970s)
+[2021.08.06-13.18.15:413][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets to /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets (0.091353s)
+[2021.08.06-13.18.15:461][287]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.08.06-13.18.15:527][287]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.08.06-13.18.15:527][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-13.18.15:527][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-13.18.15:527][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-13.18.15:527][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-13.18.15:527][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-13.18.15:527][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-13.18.15:527][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-13.18.15:527][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-13.18.15:529][287]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-13.18.15:529][287]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-13.18.15:541][287]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-13.18.15:541][287]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-13.18.15:627][287]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.06-13.18.15:628][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-13.18.15:628][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-13.18.15:628][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-13.18.15:629][287]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-13.18.15:629][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-13.18.15:629][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-13.18.15:661][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-13.18.15:661][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-13.18.15:661][287]LogInit: FAudioDevice initialized.
+[2021.08.06-13.18.15:661][287]LogAudio: Display: Audio Device (ID: 29) registered with world 'Demo_Streets'.
+[2021.08.06-13.18.15:788][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.18.15:789][287]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.06-13.18.15:828][287]LogWorld: Bringing World /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets up for play (max tick rate 60) at 2021.08.06-21.18.15
+[2021.08.06-13.18.15:829][287]LogWorld: Bringing up level for play took: 0.038163
+[2021.08.06-13.18.15:829][287]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2021.08.06-13.18.15:842][287]PIE: Server logged in
+[2021.08.06-13.18.15:843][287]PIE: Play in editor total start time 0.535 seconds.
+[2021.08.06-13.18.18:595][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.18.18:595][377]LogWorld: BeginTearingDown for /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.18.18:596][377]LogSlate: Window 'Unreal_FPS Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-13.18.18:612][377]LogWorld: UWorld::CleanupWorld for Demo_Streets, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.18.18:621][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.18.18:659][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-13.18.18:724][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.18.18:770][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.18.18:772][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.18.18:812][377]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.08.06-13.18.18:833][378]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2021.08.06-13.18.19:829][426]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-13.18.19:847][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-13.18.19:847][426]PIE: New page: PIE session: Demo_Streets (2021年8月7日 上午5:18:19)
+[2021.08.06-13.18.19:847][426]LogPlayLevel: Creating play world package: /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.18.19:902][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054241s)
+[2021.08.06-13.18.19:904][426]LogAIModule: Creating AISystem for world Demo_Streets
+[2021.08.06-13.18.19:904][426]LogPlayLevel: PIE: World Init took: (0.002344s)
+[2021.08.06-13.18.19:904][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets to /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets (0.056867s)
+[2021.08.06-13.18.19:939][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.08.06-13.18.19:941][426]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.08.06-13.18.19:941][426]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-13.18.19:941][426]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-13.18.19:941][426]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-13.18.19:941][426]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-13.18.19:941][426]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-13.18.19:941][426]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-13.18.19:941][426]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-13.18.19:941][426]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-13.18.19:941][426]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-13.18.19:941][426]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-13.18.19:945][426]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-13.18.19:945][426]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-13.18.19:989][426]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.06-13.18.19:990][426]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-13.18.19:990][426]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-13.18.19:990][426]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-13.18.19:991][426]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-13.18.19:991][426]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-13.18.19:991][426]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-13.18.20:010][426]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-13.18.20:010][426]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-13.18.20:010][426]LogInit: FAudioDevice initialized.
+[2021.08.06-13.18.20:011][426]LogAudio: Display: Audio Device (ID: 30) registered with world 'Demo_Streets'.
+[2021.08.06-13.18.20:091][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.18.20:091][426]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.06-13.18.20:132][426]LogWorld: Bringing World /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets up for play (max tick rate 60) at 2021.08.06-21.18.20
+[2021.08.06-13.18.20:132][426]LogWorld: Bringing up level for play took: 0.039250
+[2021.08.06-13.18.20:133][426]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2021.08.06-13.18.20:142][426]PIE: Server logged in
+[2021.08.06-13.18.20:142][426]PIE: Play in editor total start time 0.304 seconds.
+[2021.08.06-13.18.32:097][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.18.32:097][834]LogWorld: BeginTearingDown for /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.18.32:098][834]LogSlate: Window 'Unreal_FPS Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-13.18.32:116][834]LogWorld: UWorld::CleanupWorld for Demo_Streets, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.18.32:122][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.18.32:133][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-13.18.32:206][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.18.32:249][834]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-13.18.32:250][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.18.32:251][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.18.32:304][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.08.06-13.18.32:343][835]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2021.08.06-13.19.21:532][525]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2021.08.06-13.19.21:719][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.08.06-13.19.21:894][525]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_玩家控制3987D7FA4757A81C86C4D3AEE7C88579.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_玩家控制.uasset'
+[2021.08.06-13.19.21:932][525]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.08.06-13.19.21:932][525]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.08.06-13.19.23:076][558]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-13.19.23:099][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.06-13.19.23:099][558]PIE: New page: PIE session: Demo_Streets (2021年8月7日 上午5:19:23)
+[2021.08.06-13.19.23:099][558]LogPlayLevel: Creating play world package: /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.19.23:175][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075570s)
+[2021.08.06-13.19.23:177][558]LogAIModule: Creating AISystem for world Demo_Streets
+[2021.08.06-13.19.23:178][558]LogPlayLevel: PIE: World Init took: (0.003418s)
+[2021.08.06-13.19.23:178][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets to /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets (0.079400s)
+[2021.08.06-13.19.23:224][558]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2021.08.06-13.19.23:225][558]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.08.06-13.19.23:225][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-13.19.23:225][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-13.19.23:225][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-13.19.23:225][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-13.19.23:225][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-13.19.23:225][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-13.19.23:225][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-13.19.23:225][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-13.19.23:225][558]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-13.19.23:225][558]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-13.19.23:230][558]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-13.19.23:230][558]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-13.19.23:278][558]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek High Definition Audio)
+[2021.08.06-13.19.23:279][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-13.19.23:279][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-13.19.23:279][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-13.19.23:280][558]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-13.19.23:280][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-13.19.23:280][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-13.19.23:300][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-13.19.23:300][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-13.19.23:300][558]LogInit: FAudioDevice initialized.
+[2021.08.06-13.19.23:300][558]LogAudio: Display: Audio Device (ID: 31) registered with world 'Demo_Streets'.
+[2021.08.06-13.19.23:371][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.19.23:372][558]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.06-13.19.23:409][558]LogWorld: Bringing World /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets.Demo_Streets up for play (max tick rate 60) at 2021.08.06-21.19.23
+[2021.08.06-13.19.23:410][558]LogWorld: Bringing up level for play took: 0.036902
+[2021.08.06-13.19.23:410][558]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2021.08.06-13.19.23:424][558]PIE: Server logged in
+[2021.08.06-13.19.23:425][558]PIE: Play in editor total start time 0.342 seconds.
+[2021.08.06-13.19.31:343][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-13.19.31:344][812]LogWorld: BeginTearingDown for /Game/City_of_Brass_Enviroment/Maps/UEDPIE_0_Demo_Streets
+[2021.08.06-13.19.31:346][812]LogSlate: Window 'Unreal_FPS Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.06-13.19.31:378][812]LogWorld: UWorld::CleanupWorld for Demo_Streets, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.19.31:385][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.19.31:396][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.06-13.19.31:480][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.19.31:532][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.19.31:535][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-13.19.31:579][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.08.06-13.19.31:626][813]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2021.08.06-13.19.56:899][ 35]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.06-13.19.59:327][118]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.19.59:327][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.19.59:335][118]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.19.59:336][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.20.02:228][153]LogSlate: Window 'Message' being destroyed
+[2021.08.06-13.20.02:236][153]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/BP/素材/M_小地圖_Mat.M_小地圖_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2021.08.06-13.20.08:271][153]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.20.08:355][153]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.06-13.20.08:356][153]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.06-13.20.08:356][153]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.06-13.20.08:356][153]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.06-13.20.08:425][153]LogMaterial: Display: Missing cached shader map for material M_小地圖_Mat, compiling. 
+[2021.08.06-13.20.08:589][153]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2021.08.06-13.20.09:192][153]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.08.06-13.20.09:192][153]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.08.06-13.20.09:192][153]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.06-13.20.09:378][153]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.08.06-13.20.09:378][153]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.08.06-13.20.09:378][153]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.08.06-13.20.09:378][153]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2021.08.06-13.20.09:568][153]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.06-13.20.09:572][153]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.06-13.20.09:624][153]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.06-13.20.09:624][153]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.20.09:624][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.20.09:733][154]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.06-13.20.10:166][166]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.06-13.20.11:285][196]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-13.20.11:285][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-13.21.31:918][467]BlueprintLog: New page: Compile BP_怪物
+[2021.08.06-13.21.32:353][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.08.06-13.21.35:747][631]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.08.06-13.21.35:822][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.06-13.21.36:196][631]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_Streets1A1EE2034D8B822584D3598FA9A1FC20.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-13.21.36:204][631]LogFileHelpers: Saving map 'Demo_Streets' took 0.415
+[2021.08.06-13.21.36:292][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.06-13.21.36:352][631]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_怪物54D1ADB4422EC1BB690625B9AC4D9420.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_怪物.uasset'
+[2021.08.06-13.21.36:530][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/素材/M_小地圖_Mat" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/素材/M_小地圖_Mat.uasset" SILENT=true
+[2021.08.06-13.21.36:544][631]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/M_小地圖_Mat980D76E44291359619E9BFA9B5D616E9.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/素材/M_小地圖_Mat.uasset'
+[2021.08.06-13.21.36:574][631]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-13.21.36:574][631]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-13.21.36:574][631]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.06-13.21.36:574][631]LogContentValidation: Display: Validating Material /Game/BP/素材/M_小地圖_Mat.M_小地圖_Mat
+[2021.08.06-13.21.41:551][884]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_子彈.BP_子彈
+[2021.08.06-13.22.26:378][965]BlueprintLog: New page: Compile BP_子彈
+[2021.08.06-13.22.26:514][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.08.06-13.22.27:840][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.08.06-13.22.27:904][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.08.06-13.22.28:286][ 31]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_Streets2E110E9D45FBA8DFD8800CBE87FE6E3C.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-13.22.28:294][ 31]LogFileHelpers: Saving map 'Demo_Streets' took 0.430
+[2021.08.06-13.22.28:377][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_子彈" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_子彈.uasset" SILENT=true
+[2021.08.06-13.22.28:399][ 31]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_子彈1DAF09ED481D6DBE88149EACDC839523.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_子彈.uasset'
+[2021.08.06-13.22.28:425][ 31]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-13.22.28:425][ 31]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-13.22.28:425][ 31]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_子彈.BP_子彈
+[2021.08.06-13.23.04:994][167]BlueprintLog: New page: Compile BP_子彈
+[2021.08.06-13.23.05:067][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.08.06-13.23.06:098][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.08.06-13.23.06:183][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.08.06-13.23.06:591][215]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_Streets4AB623E44884E3603825E88BD4321722.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-13.23.06:607][215]LogFileHelpers: Saving map 'Demo_Streets' took 0.460
+[2021.08.06-13.23.06:699][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_子彈" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_子彈.uasset" SILENT=true
+[2021.08.06-13.23.06:762][215]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_子彈0638610E494C3FBF74C722B6F27153AB.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_子彈.uasset'
+[2021.08.06-13.23.06:843][215]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-13.23.06:843][215]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-13.23.06:843][215]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_子彈.BP_子彈
+[2021.08.06-13.23.48:888][603]BlueprintLog: New page: Compile BP_子彈
+[2021.08.06-13.23.49:086][603]LogUObjectHash: Compacting FUObjectHashTables data took  12.73ms
+[2021.08.06-13.23.51:119][707]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2021.08.06-13.23.51:183][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.08.06-13.23.51:612][707]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/Demo_Streets691E671945C64F893431FAA2C6D28447.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap'
+[2021.08.06-13.23.51:623][707]LogFileHelpers: Saving map 'Demo_Streets' took 0.480
+[2021.08.06-13.23.51:708][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_子彈" FILE="../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_子彈.uasset" SILENT=true
+[2021.08.06-13.23.51:727][707]LogSavePackage: Moving '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Saved/BP_子彈E5616CA447C52C67CFE514BF35FFE37C.tmp' to '../../../../../Homework/homework/Specfic Course/Unreal_Course/Unreal_Course/Unreal_FPS/Content/BP/BP_子彈.uasset'
+[2021.08.06-13.23.51:755][707]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.06-13.23.51:755][707]LogContentValidation: Display: Validating World /Game/City_of_Brass_Enviroment/Maps/Demo_Streets.Demo_Streets
+[2021.08.06-13.23.51:755][707]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_子彈.BP_子彈
+[2021.08.06-13.24.56:915][812]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
